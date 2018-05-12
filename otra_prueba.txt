@@ -1,4 +1,10 @@
 tiruliiiiii
+<<<<<<< HEAD
 
 
 tra tra tra traaaaaaaaaaaaaaaaaa
+=======
+tito
+pum
+pumpimpumpum
+>>>>>>> ad7a4b3a1c23977ed270ed03b562a2899310d9c6
