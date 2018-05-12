@@ -1,0 +1,40 @@
+
+--
+<br>
+*'''git remote add origin URL_Repositorio'''
+<br>
+
+--
+<br>
+*''' git remote -v --> veremos la url desde la que se hace fetch y push'''
+<br>
+
+--
+<br>
+*''' git push origin master --> para subir los cambios al repositorio'''
+<br>
+
+--
+<br>
+*'''  '''
+<br>
+
+--
+<br>
+*''' '''
+<br>
+
+--
+<br>
+*''' '''
+<br>
+
+--
+<br>
+*''' '''
+<br>
+
+--
+<br>
+*''' '''
+<br>
